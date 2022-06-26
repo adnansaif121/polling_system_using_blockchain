@@ -1,0 +1,18 @@
+{
+  "name": "movie-vote",
+  "version": "1.0.0",
+  "description": "A tutorial for simple voting systems.",
+  "license": "MIT",
+  "main": "truffle-config.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "firebase": "^9.8.4"
+  }
+}
